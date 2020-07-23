@@ -43,6 +43,8 @@ import pl.wotu.gridnote.model.PaymentModel;
 
 public class MainActivity extends AppCompatActivity {
 
+    //blablabla
+
     //FIREBASE
     private StorageReference mStorageRef;
     private FirebaseAuth mAuth;

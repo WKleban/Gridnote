@@ -78,6 +78,7 @@ public class FingerprintActivity extends AppCompatActivity {
                     textView.setText("Zarejestruj odcisk palca w systemie");
                 }else{
                     // Checks whether lock screen security is enabled or not
+
                     if (!keyguardManager.isKeyguardSecure()) {
                         textView.setText("Sprawdź ustawienia");
                     }else{

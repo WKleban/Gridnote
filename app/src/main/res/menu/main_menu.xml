@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/logout_item"
+        android:title="Wyloguj" />
+<!--    <item-->
+<!--        android:id="@+id/new_payment_range_item"-->
+<!--        android:title="Nowy okres rozliczeniowy" />-->
+<!--    <item-->
+<!--        android:id="@+id/wczesniejsze_item"-->
+<!--        android:title="do 2019.07.29" />-->
+<!--    <item-->
+<!--        android:id="@+id/sierpien_item"-->
+<!--        android:title="2019.07.30 - 2019.08.29" />-->
+</menu>
